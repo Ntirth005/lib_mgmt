@@ -70,8 +70,10 @@ def find(var_shelf):
 def remove(var_shelf):
     Sno = eval(input('Enter S.No(s). of book : '))
     for i in var_shelf:
-        if i[o]==Sno:
-    	    var_shelf.remove(i)
+        if i[0]==Sno:
+            var_shelf.remove(i)
+            break
+    
     return var_shelf
     
 
