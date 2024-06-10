@@ -1,7 +1,3 @@
-1. library.py is to be run first. 
-2. Other files are for support only. 
-
-Thank you for using our programe.
 ## Library Management System with Tkinter (Python Project)
 This project is suitable for beginners as a first project to explore Python and GUI development.
 
